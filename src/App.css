@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  display: block;
+  background-color: lightsteelblue;
+  width: 300px;
+  height: 30rem;
+  margin: auto;
+  margin-top: 2rem;
+  padding: 1.5rem;
 }
 
 .App-logo {
